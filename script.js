@@ -10,7 +10,7 @@ const nav = document.querySelector('.nav');
 const tabs = document.querySelectorAll('.operations__tab');
 const tabsContainer = document.querySelector('.operations__tab-container');
 const tabsContent = document.querySelectorAll('.operations__content');
-
+//const
 ///////////////////////////////////////
 // Modal window
 
@@ -335,10 +335,10 @@ document
     message.parentElement.removeChild(message);
   });
 
-  
+
 ///////////////////////////////////////
 // Styles, Attributes and Classes
-  
+
 // Styles
 message.style.backgroundColor = '#37383d';
 message.style.width = '120%';
